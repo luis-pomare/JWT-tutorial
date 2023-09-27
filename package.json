@@ -1,0 +1,20 @@
+{
+  "name": "jwt-tutorial",
+  "version": "1.0.0",
+  "description": "Hands-on tutorial about authentication using Jason Web Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luis-pomare/JWT-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luis-pomare/JWT-tutorial/issues"
+  },
+  "homepage": "https://github.com/luis-pomare/JWT-tutorial#readme"
+}
